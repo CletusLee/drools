@@ -11,7 +11,7 @@ MAINTAINER "Michael Biarnes Kiefer" "mbiarnes@redhat.com"
 ####### ENVIRONMENT ############
 ENV JBOSS_BIND_ADDRESS 0.0.0.0
 ENV KIE_REPOSITORY https://repository.jboss.org/nexus/content/groups/public-jboss
-ENV KIE_VERSION 6.5.0.Final
+ENV KIE_VERSION 7.0.0.Beta6
 ENV KIE_CLASSIFIER wildfly10
 ENV KIE_CONTEXT_PATH drools-wb
 ENV KIE_SERVER_PROFILE standalone-full
